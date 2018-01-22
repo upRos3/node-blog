@@ -5,8 +5,8 @@ const app = require('express')();
 const posts = [
   {
     id: 1,
-    author: 'John',
-    title: 'Templating with EJS',
+    author: 'James',
+    title: 'Learning to code',
     body: 'Blog post number 1'
   },
   {
